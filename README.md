@@ -2,7 +2,7 @@
 ### Hi there 👋
 <h3>I am Aylar</h3>
 
-![I am GitHub Readme Generator's creator](https://images.unsplash.com/photo-1558050032-160f36233a07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80 height="300")
+![I am GitHub Readme Generator's creator](https://images.unsplash.com/photo-1558050032-160f36233a07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80)
 
 
 <h2 align="l3ft">A passionate WEB developer from the Netherlands</h2>
@@ -17,8 +17,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -53,7 +51,8 @@
 </td></tr></table>  
 
 <br/>  
-### Connect with me  
+
+## Connect with me  
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -71,8 +70,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aylar-soltani&&style=flat-square" align="center" />
 </div>  
-
-
 
 <!--
 **Aylar-Soltani/aylar-soltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
