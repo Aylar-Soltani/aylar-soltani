@@ -38,8 +38,10 @@ I am a Full-Stack developer passionate about learning new technologies. I  , how
 </a>
 <a href="https://instagram.com/life_art_and_me" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://gmail.com/aylar.soltani" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<img src=https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  
+  
   
 </div>   
   
