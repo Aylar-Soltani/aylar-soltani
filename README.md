@@ -30,10 +30,10 @@ I am
 </div>
 
 
-
-
-## Connect with me  
+###
 ---
+## Connect with me  
+
 
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
