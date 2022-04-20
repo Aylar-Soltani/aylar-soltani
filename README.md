@@ -9,7 +9,7 @@ I am a Full-Stack developer passionate about learning new technologies. I  , how
 
 
 ---
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -26,9 +26,9 @@ I am a Full-Stack developer passionate about learning new technologies. I  , how
 </div>
 
 
-##
+###
 ---
-## Connect with me  
+### Connect with me  
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
