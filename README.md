@@ -15,9 +15,10 @@
 
 
 ## Technology Stack
-
  <br/>  
+
  Here are a few things I've been learning and practicing along my journey.
+  <br/>  
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
