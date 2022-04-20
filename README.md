@@ -10,7 +10,7 @@ I am
 - 🌱 I’m currently learning **Phython**
 
 - ⚡ Fun fact **I love Terra Mystica**
----
+
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
@@ -30,10 +30,10 @@ I am
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
 
----
+
 
 ## Connect with me  
-<br/> 
+
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
