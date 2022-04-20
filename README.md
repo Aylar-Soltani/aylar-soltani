@@ -28,11 +28,12 @@ I am
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
----
+
 
 
 
 ## Connect with me  
+---
 
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
