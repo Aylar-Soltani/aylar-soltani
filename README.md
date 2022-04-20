@@ -8,10 +8,6 @@ I am a Full-Stack developer passionate about learning new technologies. I  , how
 - ⚡ Fun fact **I love Terra Mystica**
 
 
-https://user-images.githubusercontent.com/74839865/164240889-c1e25b11-71a9-4164-a7c7-b5ff00798248.mp4
-
-
-
 ---
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
@@ -32,7 +28,7 @@ https://user-images.githubusercontent.com/74839865/164240889-c1e25b11-71a9-4164-
 
 ###
 ---
-### Connect with me  
+### 🤝 Connect with me  
 <div align="center">
 <a href="https://github.com/aylar-soltani" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
