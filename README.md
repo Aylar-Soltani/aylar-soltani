@@ -1,7 +1,7 @@
 
 ![alt text](./img.png)
 ### Hi there 👋
-<h3>I am Aylar</h3>
+I am 
 
 
 <h2 align="l3ft">A passionate WEB developer from the Netherlands</h2>
@@ -14,7 +14,7 @@
 <br/>  
 
 
-## Technology Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
  Here are a few things I've been learning and practicing along my journey.
  <br/> 
