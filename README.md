@@ -11,7 +11,7 @@ I am
 
 - ⚡ Fun fact **I love Terra Mystica**
 ---
-<br/>  
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 <br/> 
@@ -46,7 +46,7 @@ I am
 </div>  
   
 
-<br/>  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aylar-soltani&&style=flat-square" align="center" />
 </div>  
