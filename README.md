@@ -15,7 +15,8 @@
 
 
 ## Technology Stack
-<table><tr><td valign="top" width="33%">
+
+ <br/>  
  Here are a few things I've been learning and practicing along my journey.
 
 <div align="center">  
@@ -32,9 +33,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
