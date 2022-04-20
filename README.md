@@ -1,8 +1,7 @@
 
+![alt text](./img.png)
 ### Hi there 👋
 <h3>I am Aylar</h3>
-
-![alt text](./img.png)
 
 
 <h2 align="l3ft">A passionate WEB developer from the Netherlands</h2>
