@@ -12,7 +12,7 @@ I am
 - ⚡ Fun fact **I love Terra Mystica**
 
 
-
+---
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
 <div align="center">  
@@ -28,6 +28,7 @@ I am
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
+---
 
 
 
