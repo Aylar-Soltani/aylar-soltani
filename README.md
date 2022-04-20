@@ -1,11 +1,7 @@
 
 ![alt text](./img.png)
 ### Hi there 👋
-I am 
-
-
-<h2 align="l3ft">A passionate WEB developer from the Netherlands</h2>
-
+I am a Full-Stack developer passionate about learning new technologies. I  , however my real passions are to code and create awesome applications!
 
 - 🌱 I’m currently learning **Phython**
 
@@ -13,7 +9,7 @@ I am
 
 
 ---
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
 <div align="center">  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -30,7 +26,7 @@ I am
 </div>
 
 
-###
+##
 ---
 ## Connect with me  
 <div align="center">
@@ -42,15 +38,12 @@ I am
 </a>
 <a href="https://instagram.com/life_art_and_me" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</div>  
-</p>  
+</div>   
   
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aylar-soltani&&style=flat-square" align="center" />
 </div>  
-##
+
 <!--
 **Aylar-Soltani/aylar-soltani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
