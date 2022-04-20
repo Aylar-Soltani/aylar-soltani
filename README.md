@@ -8,6 +8,10 @@ I am a Full-Stack developer passionate about learning new technologies. I  , how
 - ⚡ Fun fact **I love Terra Mystica**
 
 
+https://user-images.githubusercontent.com/74839865/164240889-c1e25b11-71a9-4164-a7c7-b5ff00798248.mp4
+
+
+
 ---
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack
 
