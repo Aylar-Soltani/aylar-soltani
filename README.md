@@ -1,7 +1,11 @@
 
 ![alt text](./img.png)
 ### Hi there 👋
-I am a Full-Stack developer passionate about learning new technologies. I  , however my real passions are to code and create awesome applications!
+
+I am a web developer passionate about learning new technologies. I am a creative and innovative person which is the result of my diverse skills. I have bachelor degree in industrial engineering and Master degree In Business Administration. I have been in different roles as a project manager, Marketing Specialist and Business Data Analyst.
+I have a growth mindset and that's why I have cross-functional skills. This enables me to take more varied responsibilities, and respond to the organization’s fast-changing needs.
+
+
 
 - 🌱 I’m currently learning **Phython**
 
